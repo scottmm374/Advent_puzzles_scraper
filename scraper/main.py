@@ -75,6 +75,6 @@ def create_directories(puzzle, title, year):
 
 
 
-get_puzzle_text('https://adventofcode.com/2015/day/1')
+# get_puzzle_text('https://adventofcode.com/2015/day/1')
 
-# get_url()
+get_url()
