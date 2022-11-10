@@ -1,4 +1,3 @@
-#!/usr/bin/python
 
 from bs4 import BeautifulSoup
 from urllib.error import URLError
@@ -21,13 +20,24 @@ def get_puzzle_text(url):
     try:
         article = soup.find('article', attrs={'class': 'day-desc'})
         puzzle_text = article.prettify()
-        print(puzzle_text)
+        title = article.find('h2')
        
     except:
         print("Could not find puzzle text")
 
+    file_name = title.text.replace('---', '').strip().replace(' ', '_')
+
+    generate_readme(puzzle_text, file_name)
+
+
+
+def generate_readme(puzzle, name):
+    
+    with open(f'{name}.md', 'a') as file:
+            file.write(puzzle)
+           
 
 
 
 
-# get_puzzle_text('https://adventofcode.com/2015/day/1')
+get_puzzle_text('https://adventofcode.com/2015/day/1')
