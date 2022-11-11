@@ -1,22 +1,30 @@
 # Advent_puzzles_scraper
+---
 
 Web scraper- Directories generator to save  Advent of Code puzzles.
 
 [Visit Advent of Code](https://adventofcode.com)
 
-#### Why I created this repo
+# Motivation for this project
+---
 
 I created this scraper because I wanted a central place to not only work on the puzzles, but to also save my solutions.
 
 Each year there are 25 puzzles, as well as 25 bonus puzzles for a total of 50. Thats a lot of puzzles to create a folder, and all the files, so I decided to automate it!
 
-What this Repo currently does
+# Features
+---
 
 - Creates directories for previous year puzzles
 - Creates Sub folders for each puzzle inside each year directory.
 - Creates txt file for puzzle input
 - Creates md file populated with Puzzle instructions scraped from website.
 - Creates a py file (For solving) :)
+---
+<details>
+<summary> SCREENSHOTS </summary>
+
+<br>
 
 ![Directories by year](images/year_directories.png)
 ---
@@ -30,6 +38,19 @@ What this Repo currently does
 ![Alt text](images/puzzle_readme.png)
 ---
 
+</details>
+
+# Tech/Framework
+
+- [Python3](https://www.python.org/downloads/)
+- [beautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [requests](https://pypi.org/project/requests/)
+- [urllib](https://docs.python.org/3/library/urllib.html)
+- [pathlib](https://docs.python.org/3/library/pathlib.html)
+- [os](https://docs.python.org/3/library/os.html)
+
+# Roadmap
+---
 ### What is Advent of Code?
 
 [Visit Advent of Code](https://adventofcode.com)
