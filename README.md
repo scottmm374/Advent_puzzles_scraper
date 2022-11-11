@@ -16,28 +16,19 @@ Web scraper and directory/file generator to save previously released Advent of C
 
 
 # Motivation   
-<em>TLDR</em> - Im lazy, and repetitive tasks make me want to pull my hair out
+<em>TLDR</em> - Im lazy, and repetitive, boring tasks make me want to pull my hair out
 
 I'm a programmer... We are supposed to automate absolutely everything, right? :)
 
+![Alt text](images/download.jpeg)
 
-I discovered Advent of Code in late 2019 while I was still a student at Lambda (a.k.a. Bloomtech).
+I discovered [Advent of Code](https://adventofcode.com) in late 2019 while I was a student at Bloomtech (Lambda when I attended).
 While the current year puzzles open up to solve on their corresponding date, all previous puzzles are available on the website to solve.
 
-Each year there are 25 puzzles, as well as 25 bonus puzzles for a total of 50. Thats a lot of puzzles to create a folder, and all the files, so I decided to automate it!
+I wanted a way to save the puzzle instructions, puzzle input, and solve all the puzzles in ONE location.
+Each year there are 25 puzzles, and 25 bonus puzzles. Thats 300 Puzzles previously released! 
 
-I wanted a way to organize all the puzzles by the year in ONE location, my repo :)
 Could you imagine how long trying to copy paste would take, way to long!
-
-I started solving puzzles in repelit but quickly realized I wanted solve them and keep them in a central location, (Github repository).
-
-I also wanted a better way to process the input given for each puzzle.
-
-<em>If you haven't seen the input on some of these, they are VERY long!</em>
-
-So I created .txt files to store the input, to be read and processed however I needed in my functions to solve the puzzles.
-
-
 
 # Features
 
@@ -93,3 +84,5 @@ Advent of code is a website created by Eric Wastl in 2015.
 Every year on December 1st a new puzzle is released each day until December 25th.
 
 These puzzles can be solved in any programming language and any skill level can play.
+
+If you haven't yet, you should REALLY check it out!
