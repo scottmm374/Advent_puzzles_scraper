@@ -71,13 +71,14 @@ Could you imagine how long trying to copy paste would take, way to long!
 
 # Roadmap
 
-- Add ability to scrape input and part 2 puzzles, that require OAuth login.
+- Add ability to scrape input and part 2 puzzles, that require OAuth login. (Each USER gets UNIQUE input).
+  - currently I copy and paste input when working on a puzzle.
 - Add the ability to scrape new released puzzles into their directories on each day they are released.
 
 
-### What is Advent of Code?
+# What is Advent of Code?
 
-[Advent of Code](https://adventofcode.com)
+[Advent of Code](https://adventofcode.com)  <----- VISIT ADVENT OF CODE!!! 
 
 Advent of code is a website created by Eric Wastl in 2015.
 
@@ -85,4 +86,4 @@ Every year on December 1st a new puzzle is released each day until December 25th
 
 These puzzles can be solved in any programming language and any skill level can play.
 
-If you haven't yet, you should REALLY check it out!
+#### If you haven't yet, you should REALLY check it out!
