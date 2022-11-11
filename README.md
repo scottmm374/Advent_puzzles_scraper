@@ -1,19 +1,19 @@
-# Advent_puzzles_scraper
----
+# Advent puzzles scraper
+
 
 Web scraper- Directories generator to save  Advent of Code puzzles.
 
 [Visit Advent of Code](https://adventofcode.com)
 
-# Motivation for this project
----
+# Motivation 
+
 
 I created this scraper because I wanted a central place to not only work on the puzzles, but to also save my solutions.
 
 Each year there are 25 puzzles, as well as 25 bonus puzzles for a total of 50. Thats a lot of puzzles to create a folder, and all the files, so I decided to automate it!
 
 # Features
----
+
 
 - Creates directories for previous year puzzles
 - Creates Sub folders for each puzzle inside each year directory.
@@ -21,24 +21,26 @@ Each year there are 25 puzzles, as well as 25 bonus puzzles for a total of 50. T
 - Creates md file populated with Puzzle instructions scraped from website.
 - Creates a py file (For solving) :)
 ---
-<details>
-<summary> SCREENSHOTS </summary>
-
+# Screenshots
+</table>
 <br>
 
-![Directories by year](images/year_directories.png)
----
+<table width='100%' align='center'>
+<tr>
+<td><img src='images/year_directories.png'></td>
+<td><img src='images/puzzle_file.png'  ></td>
 
-![Alt text](images/puzzle_sub_directories.png)
----
+</tr>
+<tr>
+<td><img src='images/puzzle_sub_directories.png' ></td>
+<td><img src='images/puzzle_readme.png'></td>
+</tr>
+<!-- <td><img src='images/puzzle_file.png' ></td> -->
 
-![Alt text](images/puzzle_file.png)
----
+</tr>
+</table>
 
-![Alt text](images/puzzle_readme.png)
----
 
-</details>
 
 # Tech/Framework
 
