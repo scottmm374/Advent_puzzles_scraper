@@ -1,7 +1,7 @@
 # Advent_puzzles_scraper
 Web scraper- Directories generator to save  Advent of Code puzzles.
 
-[Visit Advent of Code]('https://adventofcode.com/')
+[Visit Advent of Code](https://adventofcode.com)
 
 What this Repo currently does
 
@@ -24,7 +24,7 @@ What this Repo currently does
 
 
 ### What is Advent of Code?
-[Visit Advent of Code]('https://adventofcode.com/')
+[Visit Advent of Code](https://adventofcode.com)
 
 Advent of code is a website created by Eric Wastl in 2015.
 
