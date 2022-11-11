@@ -7,12 +7,12 @@ Web scraper and directory/file generator to save previously released Advent of C
 [Visit Advent of Code](https://adventofcode.com)
 
 # Table of Contents
-- Why did I create this project?
-- Features
-- Tech used
-- Screenshots
-- Future features
-- What is [Advent of Code](https://adventofcode.com) anyway? 
+- [Why did I create this project?](https://github.com/scottmm374/Advent_puzzles_scraper#motivation)
+- [Features](https://github.com/scottmm374/Advent_puzzles_scraper#features)
+- [Tech used](https://github.com/scottmm374/Advent_puzzles_scraper#techframework)
+- [Screenshots](https://github.com/scottmm374/Advent_puzzles_scraper#screenshots)
+- [Future features](https://github.com/scottmm374/Advent_puzzles_scraper#roadmap)
+- [What is Advent of Code anyway?](https://github.com/scottmm374/Advent_puzzles_scraper#what-is-advent-of-code) 
 
 
 # Motivation   
