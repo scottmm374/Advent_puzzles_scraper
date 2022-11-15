@@ -16,9 +16,7 @@ Web scraper and directory/file generator to save previously released Advent of C
 
 
 # Motivation   
-<em>TLDR</em> - Im lazy, and repetitive, boring tasks make me want to pull my hair out
-
-I'm a programmer... We are supposed to automate absolutely everything, right? :)
+<em>TLDR</em> - I'm a programmer... We are supposed to automate absolutely everything, right? :)
 
 ![Alt text](images/download.jpeg)
 
