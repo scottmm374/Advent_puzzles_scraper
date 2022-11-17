@@ -2,6 +2,7 @@
 
 
 Web scraper and directory/file generator to save previously released Advent of Code puzzles in a single location.
+<br>
 
 
 [Visit Advent of Code](https://adventofcode.com)
@@ -66,6 +67,10 @@ Could you imagine how long trying to copy paste would take, way to long!
 - [urllib](https://docs.python.org/3/library/urllib.html)
 - [pathlib](https://docs.python.org/3/library/pathlib.html)
 - [os](https://docs.python.org/3/library/os.html)
+- [pytest](https://docs.pytest.org/en/7.2.x/)  - Solutions Branch
+
+
+
 
 # Roadmap
 
@@ -85,3 +90,6 @@ Every year on December 1st a new puzzle is released each day until December 25th
 These puzzles can be solved in any programming language and any skill level can play.
 
 #### If you haven't yet, you should REALLY check it out!
+<br>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fscottmm374%2FAdvent_puzzles_scraper&label=Visitors&labelColor=%23697689&countColor=%23dce775&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fscottmm374%2FAdvent_puzzles_scraper)
