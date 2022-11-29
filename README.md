@@ -1,6 +1,7 @@
 # Advent_puzzles_scraper
 
 Web scraper and directory/file generator to save previously released Advent of Code puzzles in a single location.
+
 <br>
 
 [Visit Advent of Code](https://adventofcode.com)

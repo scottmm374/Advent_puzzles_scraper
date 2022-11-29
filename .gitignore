@@ -131,4 +131,5 @@ dmypy.json
 /info
 
 
-Advent/
+#Other
+input.txt
