@@ -133,3 +133,5 @@ dmypy.json
 
 #Other
 input.txt
+urls.txt
+.DS_Store
