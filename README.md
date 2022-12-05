@@ -5,6 +5,12 @@ Web scraper and directory/file generator to save previously released Advent of C
 <br>
 
 [Visit Advent of Code](https://adventofcode.com)
+<br>
+
+[My Solutions Repo](https://github.com/scottmm374/)
+<br>
+**Don't get too excited, just the solutions I've done so far** :smile:
+<br>
 
 # Table of Contents
 
@@ -17,10 +23,6 @@ Web scraper and directory/file generator to save previously released Advent of C
 
 # Motivation
 
-[Solutions Repo](https://github.com/scottmm374/)
-<br>
-**Don't get too excited, just the solutions I've done so far** :smile:
-<br>
 
 
 <em>TLDR</em> - I'm a programmer... We are supposed to automate absolutely everything, right? :)
