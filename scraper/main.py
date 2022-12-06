@@ -4,6 +4,7 @@ import time
 from pathlib import Path
 from urllib.error import URLError
 import requests
+import re
 from bs4 import BeautifulSoup
 from env import HEADERS
 
@@ -16,9 +17,9 @@ def main():
              input_url = f'{puzzle_url}/input'
             
     
-             puzzle_text, file_name, year = get_puzzle_text(puzzle_url)
+             puzzle_text, new_file_name, year = get_puzzle_text(puzzle_url)
              input_text = get_input(input_url)
-             create_directories(puzzle_text, file_name, year, input_text)
+             create_directories(puzzle_text, new_file_name, year, input_text)
 
 
 def get_puzzle_text(url):
@@ -51,9 +52,11 @@ def get_puzzle_text(url):
         print("couldnt find year")
     
     #  Puzzle titles Used for subfolder and md  file naming 
-    file_name = title.text.replace('---', '').strip().replace(' ', '_')
+    # file_name = title.text.replace('---', '').strip().replace(' ', '_')
+    file_name = title.text.strip()
+    new_file_name = ''.join(char for char in file_name if char.isalnum())
 
-    return(puzzle_text, file_name, year)
+    return(puzzle_text, new_file_name, year)
 
 
 
